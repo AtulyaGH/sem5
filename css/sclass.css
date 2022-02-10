@@ -150,8 +150,8 @@
         text-shadow: 1px 1px 2px #FF0054, 2px 2px 2px #C3FB12;        
     }
     .scl img{
-        margin-top: 25px;
-        margin-left: 30px;
+        margin: 25px 30px;
+        padding:0;
     }
     .scl11{
         text-shadow: 1px 1px 2px #C3FB12, 2px 2px 2px #FF0054;        
