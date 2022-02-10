@@ -1,0 +1,312 @@
+.bg1{
+    background: url('../files/section1-bg.jpg') no-repeat;
+    background-size: cover;
+}
+.bg11{
+    text-align: center;
+    color: #C3FB12;
+    font-size: 6rem;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bolder;
+    margin-top: 150px;
+    text-shadow: 2px 2px 2px #FF0054, 4px 4px 2px #C3FB12;
+}
+.bg123{
+    color: white;
+    font-size: 3rem;
+    font-family: 'Play',sans-serif;
+    font-weight: bolder;
+}
+.l1{
+    color: #C3FB12;
+}
+.bg124{
+    color: #FF0054;
+    font-family: 'Play',sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+    margin-bottom: 150px;
+}
+.bg2{
+    background: url('../files/section2-bg.jpg') no-repeat;
+    background-size: cover;
+}
+.bg21{
+    text-align: center;
+    color: white;
+    font-size: 4.5rem;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bolder;
+    margin-top: 100px;
+    margin-bottom: 25px;
+}
+.l2{
+    color: #FF0054;
+}
+.bg22{    
+    text-align: left;
+    font-size: 1.5rem;
+    font-family: 'Play', sans-serif;
+    color: white;
+}
+.bg22p{
+    background: #FF0054;
+    padding-left: 5px;
+}
+.l3{
+    color: #C3FB12;
+    font-weight: 100;
+}
+.bg22p1{
+    background: none;
+    padding: 5px;
+}
+.bg23{    
+    text-align: justify;
+    font-size: 1.5rem;
+    font-family: 'Play', sans-serif;
+    color: white;
+    margin-bottom: 100px;    
+}
+.bg3{
+    background: url('../files/sec3.png') no-repeat;
+    background-size: cover;
+    }
+.bg31{
+    text-align: left;
+    color: white;
+    font-size: 3rem;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bolder;
+    margin-top: 100px;
+    margin-bottom: 25px;
+    margin-left: 100px;    
+}
+.l5{
+    color: #FF0054;
+    font-size: 4.5rem;
+}
+.bg32{
+    color: white; 
+    margin-top: 250px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    font-family: 'Play', sans-serif;
+    font-size: 1.5rem;
+    text-align: right; 
+}
+.bg34{
+    text-align: right;
+    margin-bottom: 100px;
+}
+.bg34 a:link,.bg34 a:visited{
+    background: white;
+    color: hsl(231, 21%, 13%);
+    padding: 15px 33px;
+    margin-right: 100px;  
+    font-family: 'Play', sans-serif;  
+    font-size: 1.5rem;
+    font-weight: bolder; 
+    text-decoration: none;
+}
+.bg4{
+    background: url('../files/td.png') rgba(100, 100, 100, 0.1) no-repeat;
+    background-size: cover;
+}
+.bg41{
+    text-align: right;
+    color: white;
+    font-size: 3rem;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bolder;
+    margin-top: 100px;
+    margin-bottom: 25px;
+    margin-right: 100px;
+}
+.bg42{
+    color: white; 
+    margin-top: 250px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    font-family: 'Play', sans-serif;
+    font-size: 1.5rem;
+    text-align: left; 
+}
+.bg52{
+    color: white; 
+    margin-top: 250px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    font-family: 'Play', sans-serif;
+    font-size: 1.5rem;
+    text-align: left;
+}
+.bg44{
+    text-align: left;
+    margin-bottom: 100px;
+}
+.bg44 a:link,.bg44 a:visited{
+    background: white;
+    color: hsl(231, 21%, 13%);
+    padding: 15px 33px;
+    margin-left: 100px;  
+    font-family: 'Play', sans-serif;  
+    font-size: 1.5rem;
+    font-weight: bolder; 
+    text-decoration: none;
+}
+.bg5{
+    background: url('../files/A9_Midwest1.jpg') no-repeat;
+    background-size: cover;
+}
+.bg6{
+    background: url('../files/bg6.jpg') no-repeat;
+    background-size: cover;
+}
+.bg7{
+    background: url('../files/background.png') no-repeat;
+    background-size: cover;
+}
+.bg72{    
+    color: white; 
+    margin-top: 250px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    font-family: 'Play', sans-serif;
+    font-size: 1.5rem;
+    text-align: right; 
+}
+.bg8{
+    background: url('../files/Asphalt-site.jpg') no-repeat;
+    background-size: cover;
+}
+.bg81{
+    text-align: center;
+    color: white;
+    font-size: 4.5rem;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bolder;
+    margin-top: 100px;
+}
+.bg82{
+    text-align: left;
+    color: #C3FB12;
+    font-size: 3rem;
+    font-family: 'Play', sans-serif;
+    font-weight: bolder;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 150px;
+    padding-left: 100px;
+}
+.bg82 .l2{
+    color: #C3FB12;
+}
+.bg83{
+    text-align: right;
+    color: white;
+    font-size: 3rem;
+    font-family: 'Play', sans-serif;
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-bottom: 150px;
+    padding-right: 100px;
+}
+@media screen and (max-width:900px) {
+    .bg11,.bg21{
+        font-size: 1.5rem;
+        margin-top: 50px;
+    }
+    .bg123{
+        font-size: 1rem;
+    }
+    .bg124{
+        font-size: 0.7rem;
+        margin-bottom: 50px;
+    }
+    .bg22{
+        font-size: 1rem;
+        margin-left: 40px;
+        margin-right: 40px;
+        text-align: center;
+    }
+    .bg22p1{
+        font-size: 0.7rem;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .bg23{
+        margin-bottom: 50px;
+    }
+    .bg31{
+        font-size: 1rem;
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .l5{
+        font-size: 1.5rem;
+    }
+    .bg32{
+        margin-top: 50px;
+        margin-bottom: 25px;
+        margin-right: 50px;
+        font-size: 0.7rem;
+    }
+    .bg34{
+        margin-bottom: 50px;
+    }
+    .bg34 a:link,.bg34 a:visited{
+        margin-right: 50px;
+        font-size: 1rem;
+    }
+    .bg41{
+        font-size: 1rem;
+        margin-top: 50px;
+        margin-right: 50px;
+    }
+    .bg42{
+        margin-top: 50px;
+        margin-bottom: 25px;
+        margin-left: 50px;
+        font-size: 0.7rem;
+    }
+    .bg52{
+        margin-bottom: 50px;
+        margin-top: 50px;
+        margin-left: 50px;
+        font-size: 0.7rem;
+    }
+    .bg44{
+        margin-bottom: 50px;
+    }
+    .bg44 a:link,.bg44 a:visited{
+        margin-left: 50px;
+        font-size: 1rem;
+
+    }
+    .bg72{
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-right: 50px;
+        font-size: 0.7rem;        
+    }
+    .bg81{
+        font-size: 1.5rem;
+        margin-top: 25px; 
+        margin-bottom: 0;       
+    }
+    .bg82{
+        font-size: 1rem;
+        margin-top: 25px;
+        margin-bottom: 50px;
+        margin-left: 0px;
+        padding-left: 0px;        
+    }
+    .bg83{
+        font-size: 1rem;
+        margin-top: 25px;
+        margin-bottom: 50px;
+        margin-right: 0px;
+        padding-right: 0px;        
+    }
+}

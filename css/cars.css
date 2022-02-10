@@ -1,0 +1,225 @@
+@keyframes hyp1{
+    0%{
+        background: url('../files/background.jpg') no-repeat;
+        background-size: cover;
+    } 
+    16%{
+        background: url('../files/Asphalt-site.jpg') no-repeat;
+        background-size: cover;
+    } 
+    33%{
+        background: url('../files/infobg1.jpg') no-repeat;
+        background-size: cover;
+    } 
+    49%{
+        background: url('../files/bg6.jpg') no-repeat;
+        background-size: cover;
+    } 
+    66%{
+        background: url('../files/sec3.jpg') no-repeat;
+        background-size: cover;
+    } 
+    82%{
+        background: url('../files/td.jpg') no-repeat;
+        background-size: cover;
+    } 
+    100%{
+        background: url('../files/wn1.jpg') no-repeat;
+        background-size: cover;
+    } 
+}
+.hyp1{
+    animation: hyp1 30s infinite;
+    background-size: cover;
+    background: no-repeat;
+}
+.hyp11{
+    font-size: 5rem;
+    color: white;
+    font-family: "Roboto Slab", serif;
+    text-shadow: 2px 2px 2px hsl(74, 97%, 53%), 4px 4px 2px hsl(340, 100%, 50%);
+    line-height: 100px;
+    text-align: center;
+    margin-top: 250px;
+    margin-bottom: 250px;
+}
+.hy1{
+    color: hsl(340, 100%, 50%);
+    font-size: 8rem;
+}
+@keyframes hyp2{
+    0%{
+        background: url('../files/jesko.jpg') no-repeat;
+        background-size: cover;
+    }
+    12%{
+        background: url('../files/jesko.jpg') no-repeat;
+        background-size: cover;
+    } 
+    25%{
+        background: url('../files/terzo.jpg') no-repeat;
+        background-size: cover;
+    } 
+    50%{
+        background: url('../files/senna.jpg') no-repeat;
+        background-size: cover;
+    } 
+    75%{
+        background: url('../files/lykan.jpg') no-repeat;
+        background-size: cover;
+    } 
+    100%{
+        background: url('../files/lvn.jpg') no-repeat;
+        background-size: cover;
+    }
+}
+.hyp2{
+    animation: hyp2 20s infinite;
+    background: no-repeat;
+    background-size: cover;
+}
+.hyp21 img{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+@keyframes hyp3{
+    0%{
+        background: url('../files/47482.jpg') no-repeat;
+        background-size: cover;
+    }
+    12%{
+        background: url('../files/47482.jpg') no-repeat;
+        background-size: cover;
+    } 
+    25%{
+        background: url('../files/at96.jpg') no-repeat;
+        background-size: cover;
+    } 
+    50%{
+        background: url('../files/pagani-bc.jpg') no-repeat;
+        background-size: cover;
+    } 
+    75%{
+        background: url('../files/SC18.jpg') no-repeat;
+        background-size: cover;
+    } 
+    100%{
+        background: url('../files/918spyder.jpg') no-repeat;
+        background-size: cover;
+    }
+}
+.hyp3{
+    animation: hyp3 20s infinite;
+    background: no-repeat;
+    background-size: cover;
+}
+@keyframes hyp4{
+    0%{
+        background: url('../files/gs.jpg') no-repeat;
+        background-size: cover;
+    }
+    12%{
+        background: url('../files/gs.jpg') no-repeat;
+        background-size: cover;
+    } 
+    25%{
+        background: url('../files/lamborghini_huracan_evo_spyder.jpg') no-repeat;
+        background-size: cover;
+    } 
+    50%{
+        background: url('../files/dbs.jpg') no-repeat;
+        background-size: cover;
+    } 
+    75%{
+        background: url('../files/SCG-003S.jpg') no-repeat;
+        background-size: cover;
+    } 
+    100%{
+        background: url('../files/r1.jpg') no-repeat;
+        background-size: cover;
+    }
+}
+.hyp4{
+    animation: hyp4 20s infinite;
+    background: no-repeat;
+    background-size: cover;
+}
+@keyframes hyp5{
+    0%{
+        background: url('../files/599xx-evo.jpg') no-repeat;
+        background-size: cover;
+    }
+    12%{
+        background: url('../files/599xx-evo.jpg') no-repeat;
+        background-size: cover;
+    } 
+    25%{
+        background: url('../files/vencer-sarthe.jpg') no-repeat;
+        background-size: cover;
+    } 
+    50%{
+        background: url('../files/ats.jpg') no-repeat;
+        background-size: cover;
+    } 
+    75%{
+        background: url('../files/h2.jpg') no-repeat;
+        background-size: cover;
+    } 
+    100%{
+        background: url('../files/rezvani-beast-x.jpg') no-repeat;
+        background-size: cover;
+    }
+}
+.hyp5{
+    animation: hyp5 20s infinite;
+    background: no-repeat;
+    background-size: cover;
+}
+@keyframes hyp6{
+    0%{
+        background: url('../files/lotus.jpg') no-repeat;
+        background-size: cover;
+    }
+    12%{
+        background: url('../files/lotus.jpg') no-repeat;
+        background-size: cover;
+    } 
+    25%{
+        background: url('../files/ShelbyGT350R.jpg') no-repeat;
+        background-size: cover;
+    } 
+    50%{
+        background: url('../files/lamborghini-huracan-super-trofeo-evo.jpg') no-repeat;
+        background-size: cover;
+    } 
+    75%{
+        background: url('../files/2016_renault_trezor.jpg') no-repeat;
+        background-size: cover;
+    } 
+    100%{
+        background: url('../files/ds-e-tense.jpg') no-repeat;
+        background-size: cover;
+    }
+}
+.hyp6{
+    animation: hyp6 20s infinite;
+    background: no-repeat;
+    background-size: cover;
+}
+@media screen and (max-width:900px) {
+    .hyp11{
+        font-size: 1.5rem;
+        line-height: 35px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .hy1{
+        font-size: 2rem;
+    }
+    /* .hyp2{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    } */
+
+}

@@ -1,0 +1,326 @@
+body{
+    margin:0;
+    padding: 0;
+}
+.title a{
+    text-decoration: none;
+}
+.head{
+    padding: 30px 50px;
+    background: hsl(231, 21%, 13%);
+}
+.logo{
+    text-align: center;
+    padding: 10px;
+}
+.logo img{
+    width:50px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.title h1{
+    padding: 10px 0;
+    font-size: 2.6rem;
+    
+    color:white;
+    font-family: 'Play',sans-serif;
+    margin-left: -10px;
+}
+@media screen and (max-width:900px) {
+    .title h1{
+        text-align: center;
+        margin: 0;
+    }
+}
+
+.sub{
+    text-align: center;
+    padding-top: 10px;
+}
+.sh1{
+    font-family: 'Play',sans-serif;
+    color: hsl(231, 21%, 13%);
+    padding-top: 20px;
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: bolder;
+}
+.sh1 a:link,.sh1 a:visited{
+    text-decoration: none;
+    color: hsl(231, 21%, 13%);
+}
+.sh2{
+    font-family: 'Play',sans-serif;
+    color: hsl(231, 21%, 13%);
+    padding-top: 20px;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+
+.sh2 a:link, .sh2 a:visited{
+    text-decoration: none;
+    color: hsl(231, 21%, 13%);
+    transition: all 0.1s;
+}
+.sh2 a:hover{
+    transform: scalex(1.1);
+    color: rgb(248, 2, 84);
+}
+.cont0{
+    background-image: url('files/a9l.jpg');
+}
+.img1 img{
+    width: 100%;
+    height: 500px;
+}
+.cr{
+    background: url(../recent.jpg);
+}
+.sec2{
+    background: url(../files/wn.jpg) no-repeat;
+    background-size: cover;
+}
+.wn p:first-child{
+    font-family: 'Roboto Slab', serif;
+    font-size: 4rem; 
+    color: rgb(255, 255, 255); 
+
+}
+.wn p:last-child{
+    font-family: 'Roboto Slab', serif;
+    font-size: 4rem; 
+    color: rgb(248, 2, 84);   
+}
+@media screen and (max-width:900px) {
+    .wn p:last-child{
+    padding-left: 2rem;
+    margin-left: 20px;
+    padding-top: 0px;
+    }
+    .wn p:first-child{
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        line-height: 0px;
+        margin-top: 80px;
+    }
+}
+.wn1 p:first-child{ 
+    color: white; 
+    font-family: 'Roboto Slab', serif;
+    font-size: 2rem;
+    background: rgb(248, 2, 84);
+    margin-bottom: 20px;
+}
+.wn1 p:last-child{ 
+    color: rgb(255, 255, 255); 
+    font-family: 'Roboto Slab', serif;
+    font-size: 3.5rem;
+    padding-top: 0px;
+    margin-top: 0px;
+    line-height: 60px;
+}
+.wn2 p{
+    font-family: 'Play', sans-serif;
+    font-size: 1.5rem; 
+    color: rgb(248, 2, 84);
+    font-weight: bolder;
+    background-color: white;
+    margin-left: 3.5rem;
+    text-indent: 0px;
+    margin-bottom: 25px;
+    margin-top: 50px;
+    text-align: justify;
+    margin-right: 3.5rem;
+}
+.wn3 p{
+    margin-bottom: 100px;
+    margin-top: 50px;
+    margin-left: 3.5rem;
+}
+.wn3 p a{
+    color: hsl(231, 21%, 13%);
+    text-decoration: none;
+    padding: 15px 40px;
+    background: hsl(74, 97%, 53%);
+    margin-bottom: 10px;
+    margin-left: -8px;
+    margin-right: 3.5rem;
+    font-family: 'Play', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bolder; 
+}.wn3:last-child p{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 3.5rem;
+}
+@media screen and (max-width:900px) {
+    .wn3 p{
+        margin-bottom: 20px;
+    }
+    .wn3:last-child p{
+        margin-top: 20px;
+    }
+}
+.wn3:last-child a{
+    background: white;
+    color: hsl(231, 21%, 13%);
+    margin-left: -8px;
+    padding: 15px 33px;
+}
+.cont1{
+    background: linear-gradient(45deg,rgb(25, 25, 63) 0%,rgb(117, 14, 14) 40%,rgb(25, 25, 63) 60%,rgb(117, 14, 14) 95%);
+}
+.sh3{
+    font-family: 'Play',sans-serif;
+    color: hsl(0, 0%, 100%);
+    padding: 20px auto;
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: bolder;
+}
+.sh4{
+    border-bottom: 3.75px solid white;
+    border-top: 3.75px solid white;    
+    margin-top: 30px;
+}
+.cd1{
+    height: 440px;
+    margin: 30px auto;
+    transition: all 0.5s;
+}
+.cd1:hover{
+    box-shadow: 5px 5px 0px 0px rgb(87, 83, 83), 10px 10px 0px 0px rgb(48, 39, 39);
+}
+.hd1{
+    margin-bottom: 150px;
+}
+.hd1 p{
+    border: solid 4px hsl(264, 5%, 82%);
+    font-size: 4rem;
+    font-weight: bolder;
+    font-family: 'Play',sans-serif;
+    padding: 20px 50px;
+}
+.hd1 a{
+    text-decoration: none;
+    color: hsl(264, 5%, 82%);
+    font-size: 4rem;
+}
+@media screen and (max-width:900px) {
+    .hd1 p, .hd1 a{
+        font-size: 1rem;
+        padding: 10px 25px;
+    }
+    .hd1{
+        margin-bottom: 20px;
+    }
+}
+.fb{
+    background: url(../files/fimg.jpg) no-repeat;
+    background-size: cover;
+    /* text-align: center;
+    color: green;
+    font-size: 3rem;
+    font-family: 'Roboto Slab', serif; */
+}
+.fb1{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    font-size: 4rem;
+}
+@media screen and (max-width:900px){
+    .fb1{
+        font-size: 1.5rem;
+    }
+}
+.joinus{
+    font-size: 3rem;
+    font-family: 'Roboto Slab',serif;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    margin: 50px auto 0px auto;
+}
+@media screen and (max-width:900px){
+    .joinus{
+        font-size: 1.2rem;
+        margin-top:20px;
+    }
+}
+.joinus p img{
+    height: 50px;
+    width: auto;
+    margin: 30px 10px 0 10px;
+}
+@media screen and (max-width:900px) {
+    .joinus p img{
+        margin: 30px 5px 0 5px;
+        height: 30px;
+        width:auto;
+    }
+}
+.joinus p a{
+    text-decoration: none;
+}
+.fb2{
+    text-align:center;
+    margin-top: 10px;
+}
+.fb2 img{
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+}
+.fb3{
+    text-align: center;
+    font-family: 'roboto slab' serif;
+    color: white;
+}
+.fb4{
+    font-family: 'roboto slab' serif;
+    color: white;
+    border: solid 3px white;
+    border-radius: 0;
+    text-align: center;
+    margin: 30px 10px 50px 10px;
+    padding: 10px 5px;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+@media screen and (max-width:900px){
+    .fb4{
+        font-size: 0.5rem;
+        margin: 10px;
+    }
+    .fb4:last-child{
+        margin-bottom: 50px;
+    }
+}
+.fb4:hover{
+    background: white;
+    color: hsl(231, 21%, 13%);
+}
+.deg{
+    font-family: 'Roboto Slab', serif;
+    color: white; 
+    font-weight: bolder; 
+    font-size: 1.2rem; 
+    text-align: right; 
+    margin-bottom: 20px;
+}
+.deg a:link,.deg a:visited{
+    text-decoration: none;
+}
+@media screen and (max-width:900px) {
+    .logo img{
+        width: 150px;
+        height: auto;
+    }
+    .title h1{
+        text-align: center;
+        font-size: 1.8rem;
+    }
+} 

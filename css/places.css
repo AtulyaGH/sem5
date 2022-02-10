@@ -1,0 +1,182 @@
+@keyframes loc1{
+    0%{
+        background: url('../files/A9_Caribbean_hires.jpg') no-repeat;
+        background-size: cover;
+    } 
+    8%{
+        background: url('../files/A9_Midwest1.jpg') no-repeat;
+        background-size: cover;
+    } 
+    16%{
+        background: url('../files/A9-BuenosAires.jpg') no-repeat;
+        background-size: cover;
+    } 
+    24%{
+        background: url('../files/A9_Cairo.jpg') no-repeat;
+        background-size: cover;
+    } 
+    32%{
+        background: url('../files/aukland.jpg') no-repeat;
+        background-size: cover;
+    } 
+    40%{
+        background: url('../files/A9_Himalaya.jpg') no-repeat;
+        background-size: cover;
+    } 
+    48%{
+        background: url('../files/A9_Nevada.jpg') no-repeat;
+        background-size: cover;
+    } 
+    56%{
+        background: url('../files/newyork.jpg') no-repeat;
+        background-size: cover;
+    } 
+    64%{
+        background: url('../files/osaka.jpg') no-repeat;
+        background-size: cover;
+    }  
+    72%{
+        background: url('../files/A9_Roma.jpg') no-repeat;
+        background-size: cover;
+    } 
+    80%{
+        background: url('../files/A9_SanFrancisco.jpg') no-repeat;
+        background-size: cover;
+    } 
+    88%{
+        background: url('../files/A9_Scotland.jpg') no-repeat;
+        background-size: cover;
+    } 
+    100%{
+        background: url('../files/A9_Shanghai.jpg') no-repeat;
+        background-size: cover;
+    }   
+}
+.loc1{
+    animation: loc1 50s infinite;
+    background-size: cover;
+    background: no-repeat;
+}
+.loc11{
+    font-size: 8rem;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bolder;
+    color: hsl(340, 100%, 50%);
+    margin-top: 200px;
+    margin-bottom: 200px;
+    text-shadow: 2px 2px 2px hsl(74, 97%, 53%), 4px 4px 2px hsl(340, 100%, 50%);
+}
+.locb{
+    color: white;
+    text-shadow: 2px 2px 2px hsl(340, 100%, 50%), 4px 4px 2px hsl(74, 97%, 53%);
+}
+.loc2{
+    background: url('../files/aukland.jpg') no-repeat;
+    background-size: cover;
+}
+.loc21{
+    font-size: 4.5rem;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bolder;
+    color: hsl(340, 100%, 50%);
+    line-height: 60px;
+    margin: 100px 0 50px 100px;
+}
+.lo1{
+    font-size: 3rem;
+    color: white;
+    border-bottom: solid 3px hsl(340, 100%, 50%);
+}
+.loc22{
+    font-size: 2rem;
+    color: hsl(74, 97%, 53%);
+    font-weight: bolder;
+    font-family: 'Roboto Slab', serif;
+    margin: 0 0 30px 100px;
+}
+.lo2{
+    color: white;
+}
+.lo3{
+    color: hsl(74, 97%, 53%);
+    font-family: 'Play', sans-serif;
+    font-size: 1rem;
+    font-weight: bolder;
+}
+.loc23{
+    background: transparent;
+    margin: 20px auto;
+    border: none;
+    border-radius: 0px;
+}
+.loc3{
+    background: url('../files/A9-BuenosAires.jpg') no-repeat;
+    background-size: cover;
+}
+.loc4{
+    background: url('../files/A9_Cairo.jpg') no-repeat;
+    background-size: cover;
+}
+.loc5{
+    background: url('../files/A9_Himalaya.jpg') no-repeat;
+    background-size: cover;
+}
+.loc6{
+    background: url('../files/A9_Midwest1.jpg') no-repeat;
+    background-size: cover;
+}
+.loc7{
+    background: url('../files/A9_Nevada.jpg') no-repeat;
+    background-size: cover;
+}
+.loc8{
+    background: url('../files/newyork.jpg') no-repeat;
+    background-size: cover;
+}
+.loc9{
+    background: url('../files/osaka.jpg') no-repeat;
+    background-size: cover;
+}
+.loc10{
+    background: url('../files/A9_Roma.jpg') no-repeat;
+    background-size: cover;
+}
+.loc111{
+    background: url('../files/A9_SanFrancisco.jpg') no-repeat;
+    background-size: cover;
+}
+.loc12{
+    background: url('../files/A9_Scotland.jpg') no-repeat;
+    background-size: cover;
+}
+.loc13{
+    background: url('../files/A9_Shanghai.jpg') no-repeat;
+    background-size: cover;
+}
+.loc14{
+    background: url('../files/A9_Caribbean_hires.jpg') no-repeat;
+    background-size: cover;
+}
+@media screen and (max-width:900px) {
+    .loc11{
+        font-size: 2.5rem;
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+    .loc21{
+        font-size: 2rem;
+        margin: 50px 0 25px 0;
+        text-align: center;
+        line-height: 25px;
+    }
+    .lo1{
+        font-size: 1rem;
+        border-bottom: solid 3px hsl(340, 100%, 50%);
+    }
+    .loc22{
+        font-size: 1.5rem;
+        text-align: center;
+        margin: 0 0 20px 0;
+    }
+}
