@@ -150,8 +150,8 @@
         text-shadow: 1px 1px 2px #FF0054, 2px 2px 2px #C3FB12;        
     }
     .scl img{
-        padding-top:25px;
-        padding-right: 25px;
+        margin-top: 20px;
+        maargin-left: 20px;
     }
     .scl11{
         text-shadow: 1px 1px 2px #C3FB12, 2px 2px 2px #FF0054;        
@@ -172,7 +172,7 @@
     }
     .sc:hover .scl img{
         padding: 13% 0 0 10%;
-        margin-bottom: 150px;
+        margin-bottom: 148px;
     }
     .sc:hover .scl2 p{
         border-bottom: #FF0054 0.2px solid;
