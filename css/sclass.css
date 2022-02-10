@@ -11,7 +11,7 @@
 }
 .scl img{
     width: 200%;
-    opacity: 0.7;
+    opacity: 1;
     padding: 5% 5% 5% 9%;
     transition: all 1s;
     z-index: 90;
