@@ -223,6 +223,7 @@
         text-decoration: underline 1px #C3FB12;
         top: 5px;
         left: 80px;
+        text-align:center;
     }
     .sc:hover .scl12{
         font-size: 0.7rem;
